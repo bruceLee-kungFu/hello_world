@@ -3,7 +3,5 @@
 .DS_Store
 .sass-cache
 build/
-####################################  
+
 Gemfile.lock
-VIM__session.vim
-workflow.txt
